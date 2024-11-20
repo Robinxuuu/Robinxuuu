@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on building fair and profitable recommandation system
 - 📫 How to reach me: robinxuuu@gmail.com
 - 😄 Pronouns: He/His
+- 🤩 I'm recently working on my uni projects!! Its about sentiment analysis...
+
 
 
 <!---
