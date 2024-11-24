@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Robinxuuu
-- 👀 I’m interested in Machine Learning
+- 👋 Hi, I’m Shixiong Xu
 - 🌱 I’m currently learning Big data, DA, ML... in my MSc Data Science in UoS
-- 💞️ I’m looking to collaborate on building fair and profitable recommandation system
+- 👀 I’m interested in Machine Learning
 - 📫 How to reach me: robinxuuu@gmail.com
 - 😄 Pronouns: He/His
 - 🤩 I'm recently working on my uni projects!! Its about sentiment analysis...
