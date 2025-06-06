@@ -2,10 +2,10 @@
 **BSc Environmental Science and MSc Data Science (ongoing!)**
 - 🌱 I’m currently learning Big data, DA, ML... in my MSc Data Science in UoS and I’m really into Machine Learning (although its hard😴)!!
 - 📫 How to reach me: robinxuuu@gmail.com
-- 🤩 I'm recently working on my uni projects!! Its about sentiment analysis...
+- 🤩 I'm recently working on my uni projects!! Its about sentiment analysis, classification, regression...
 
 ## Skills
-- Dedicated streak-holders in a Duolingo check-in challenge (as of November 24, 2024: 178 days)🦉
+- Dedicated streak-holders in a Duolingo check-in challenge (as of Jun 6, 2025: 370 days)🦉
 - Python for data analysis
 - Stata for time series analysis
 - R studio for data visualization & data analysis (sentiment analysis recently)
